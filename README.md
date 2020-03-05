@@ -1,4 +1,6 @@
-# First Steps: Visualization with Altair
+<img src="https://cdn.oreillystatic.com/images/sitewide-headers/oreilly_logo_mark_red.svg" alt="O'Reilly home"/>
+
+### First Steps: Visualization with Altair
 
 ![Powered by Jupyter Logo](https://cdn.oreillystatic.com/images/icons/powered_by_jupyter.png)
 

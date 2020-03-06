@@ -1,0 +1,231 @@
+"age2","religion","response","n","pct"
+"18-24","Buddhism","Not wrong",30,40
+"18-24","Buddhism","Wrong",12,16
+"18-24","Buddhism","Wrong-ish",33,44
+"18-24","Christian Orthodox","Not wrong",286,66.5
+"18-24","Christian Orthodox","Wrong",61,14.2
+"18-24","Christian Orthodox","Wrong-ish",83,19.3
+"18-24","Hinduism","Not wrong",7,28
+"18-24","Hinduism","Wrong",13,52
+"18-24","Hinduism","Wrong-ish",5,20
+"18-24","Islam","Not wrong",24,7.5
+"18-24","Islam","Wrong",259,81.4
+"18-24","Islam","Wrong-ish",35,11
+"18-24","Jewish","Not wrong",86,57
+"18-24","Jewish","Wrong",48,31.8
+"18-24","Jewish","Wrong-ish",17,11.3
+"18-24","No religion","Not wrong",1147,76.2
+"18-24","No religion","Wrong",161,10.7
+"18-24","No religion","Wrong-ish",197,13.1
+"18-24","Other Christian Religions","Not wrong",61,35.1
+"18-24","Other Christian Religions","Wrong",92,52.9
+"18-24","Other Christian Religions","Wrong-ish",21,12.1
+"18-24","Other Eastern Religions","Not wrong",36,31
+"18-24","Other Eastern Religions","Wrong",33,28.4
+"18-24","Other Eastern Religions","Wrong-ish",47,40.5
+"18-24","Other Religions","Not wrong",19,35.8
+"18-24","Other Religions","Wrong",28,52.8
+"18-24","Other Religions","Wrong-ish",6,11.3
+"18-24","Protestant","Not wrong",582,55.2
+"18-24","Protestant","Wrong",346,32.8
+"18-24","Protestant","Wrong-ish",127,12
+"18-24","Roman Catholic","Not wrong",1330,58.1
+"18-24","Roman Catholic","Wrong",589,25.7
+"18-24","Roman Catholic","Wrong-ish",369,16.1
+"25-29","Buddhism","Not wrong",23,37.7
+"25-29","Buddhism","Wrong",15,24.6
+"25-29","Buddhism","Wrong-ish",23,37.7
+"25-29","Christian Orthodox","Not wrong",215,66.2
+"25-29","Christian Orthodox","Wrong",40,12.3
+"25-29","Christian Orthodox","Wrong-ish",70,21.5
+"25-29","Hinduism","Not wrong",2,15.4
+"25-29","Hinduism","Wrong",7,53.8
+"25-29","Hinduism","Wrong-ish",4,30.8
+"25-29","Islam","Not wrong",30,10.1
+"25-29","Islam","Wrong",231,77.8
+"25-29","Islam","Wrong-ish",36,12.1
+"25-29","Jewish","Not wrong",65,61.9
+"25-29","Jewish","Wrong",32,30.5
+"25-29","Jewish","Wrong-ish",8,7.6
+"25-29","No religion","Not wrong",887,75.5
+"25-29","No religion","Wrong",116,9.9
+"25-29","No religion","Wrong-ish",172,14.6
+"25-29","Other Christian Religions","Not wrong",43,35.5
+"25-29","Other Christian Religions","Wrong",58,47.9
+"25-29","Other Christian Religions","Wrong-ish",20,16.5
+"25-29","Other Eastern Religions","Not wrong",39,38.6
+"25-29","Other Eastern Religions","Wrong",21,20.8
+"25-29","Other Eastern Religions","Wrong-ish",41,40.6
+"25-29","Other Religions","Not wrong",23,41.1
+"25-29","Other Religions","Wrong",25,44.6
+"25-29","Other Religions","Wrong-ish",8,14.3
+"25-29","Protestant","Not wrong",495,58.9
+"25-29","Protestant","Wrong",253,30.1
+"25-29","Protestant","Wrong-ish",92,11
+"25-29","Roman Catholic","Not wrong",1160,60.1
+"25-29","Roman Catholic","Wrong",500,25.9
+"25-29","Roman Catholic","Wrong-ish",271,14
+"30-39","Buddhism","Not wrong",43,27.9
+"30-39","Buddhism","Wrong",44,28.6
+"30-39","Buddhism","Wrong-ish",67,43.5
+"30-39","Christian Orthodox","Not wrong",376,58.8
+"30-39","Christian Orthodox","Wrong",129,20.2
+"30-39","Christian Orthodox","Wrong-ish",134,21
+"30-39","Hinduism","Not wrong",9,22.5
+"30-39","Hinduism","Wrong",27,67.5
+"30-39","Hinduism","Wrong-ish",4,10
+"30-39","Islam","Not wrong",52,9.9
+"30-39","Islam","Wrong",430,82.1
+"30-39","Islam","Wrong-ish",42,8
+"30-39","Jewish","Not wrong",108,52.4
+"30-39","Jewish","Wrong",72,35
+"30-39","Jewish","Wrong-ish",26,12.6
+"30-39","No religion","Not wrong",1853,76.3
+"30-39","No religion","Wrong",205,8.4
+"30-39","No religion","Wrong-ish",370,15.2
+"30-39","Other Christian Religions","Not wrong",94,39
+"30-39","Other Christian Religions","Wrong",110,45.6
+"30-39","Other Christian Religions","Wrong-ish",37,15.4
+"30-39","Other Eastern Religions","Not wrong",66,32.5
+"30-39","Other Eastern Religions","Wrong",62,30.5
+"30-39","Other Eastern Religions","Wrong-ish",75,36.9
+"30-39","Other Religions","Not wrong",42,39.6
+"30-39","Other Religions","Wrong",47,44.3
+"30-39","Other Religions","Wrong-ish",17,16
+"30-39","Protestant","Not wrong",1200,58.8
+"30-39","Protestant","Wrong",586,28.7
+"30-39","Protestant","Wrong-ish",254,12.5
+"30-39","Roman Catholic","Not wrong",2343,59.6
+"30-39","Roman Catholic","Wrong",983,25
+"30-39","Roman Catholic","Wrong-ish",606,15.4
+"40-49","Buddhism","Not wrong",45,19.7
+"40-49","Buddhism","Wrong",93,40.6
+"40-49","Buddhism","Wrong-ish",91,39.7
+"40-49","Christian Orthodox","Not wrong",287,47
+"40-49","Christian Orthodox","Wrong",192,31.4
+"40-49","Christian Orthodox","Wrong-ish",132,21.6
+"40-49","Hinduism","Not wrong",10,23.8
+"40-49","Hinduism","Wrong",22,52.4
+"40-49","Hinduism","Wrong-ish",10,23.8
+"40-49","Islam","Not wrong",42,9.6
+"40-49","Islam","Wrong",364,83.5
+"40-49","Islam","Wrong-ish",30,6.9
+"40-49","Jewish","Not wrong",90,51.4
+"40-49","Jewish","Wrong",66,37.7
+"40-49","Jewish","Wrong-ish",19,10.9
+"40-49","No religion","Not wrong",1818,74.4
+"40-49","No religion","Wrong",251,10.3
+"40-49","No religion","Wrong-ish",375,15.3
+"40-49","Other Christian Religions","Not wrong",85,32
+"40-49","Other Christian Religions","Wrong",160,60.2
+"40-49","Other Christian Religions","Wrong-ish",21,7.9
+"40-49","Other Eastern Religions","Not wrong",30,14.6
+"40-49","Other Eastern Religions","Wrong",110,53.4
+"40-49","Other Eastern Religions","Wrong-ish",66,32
+"40-49","Other Religions","Not wrong",43,40.6
+"40-49","Other Religions","Wrong",40,37.7
+"40-49","Other Religions","Wrong-ish",23,21.7
+"40-49","Protestant","Not wrong",1300,59.4
+"40-49","Protestant","Wrong",652,29.8
+"40-49","Protestant","Wrong-ish",237,10.8
+"40-49","Roman Catholic","Not wrong",2334,57
+"40-49","Roman Catholic","Wrong",1069,26.1
+"40-49","Roman Catholic","Wrong-ish",695,17
+"50-59","Buddhism","Not wrong",34,14.3
+"50-59","Buddhism","Wrong",126,53.2
+"50-59","Buddhism","Wrong-ish",77,32.5
+"50-59","Christian Orthodox","Not wrong",237,34.9
+"50-59","Christian Orthodox","Wrong",306,45.1
+"50-59","Christian Orthodox","Wrong-ish",136,20
+"50-59","Hinduism","Not wrong",5,16.1
+"50-59","Hinduism","Wrong",23,74.2
+"50-59","Hinduism","Wrong-ish",3,9.7
+"50-59","Islam","Not wrong",23,8.8
+"50-59","Islam","Wrong",221,84.7
+"50-59","Islam","Wrong-ish",17,6.5
+"50-59","Jewish","Not wrong",90,51.1
+"50-59","Jewish","Wrong",63,35.8
+"50-59","Jewish","Wrong-ish",23,13.1
+"50-59","No religion","Not wrong",1591,75
+"50-59","No religion","Wrong",211,10
+"50-59","No religion","Wrong-ish",318,15
+"50-59","Other Christian Religions","Not wrong",66,35.5
+"50-59","Other Christian Religions","Wrong",102,54.8
+"50-59","Other Christian Religions","Wrong-ish",18,9.7
+"50-59","Other Eastern Religions","Not wrong",25,13.6
+"50-59","Other Eastern Religions","Wrong",115,62.5
+"50-59","Other Eastern Religions","Wrong-ish",44,23.9
+"50-59","Other Religions","Not wrong",22,26.5
+"50-59","Other Religions","Wrong",49,59
+"50-59","Other Religions","Wrong-ish",12,14.5
+"50-59","Protestant","Not wrong",1286,61.9
+"50-59","Protestant","Wrong",509,24.5
+"50-59","Protestant","Wrong-ish",283,13.6
+"50-59","Roman Catholic","Not wrong",2055,56.1
+"50-59","Roman Catholic","Wrong",944,25.8
+"50-59","Roman Catholic","Wrong-ish",664,18.1
+"60-69","Buddhism","Not wrong",16,8.3
+"60-69","Buddhism","Wrong",124,64.2
+"60-69","Buddhism","Wrong-ish",53,27.5
+"60-69","Christian Orthodox","Not wrong",95,22.2
+"60-69","Christian Orthodox","Wrong",272,63.7
+"60-69","Christian Orthodox","Wrong-ish",60,14.1
+"60-69","Hinduism","Not wrong",2,7.4
+"60-69","Hinduism","Wrong",24,88.9
+"60-69","Hinduism","Wrong-ish",1,3.7
+"60-69","Islam","Not wrong",9,5.2
+"60-69","Islam","Wrong",154,89
+"60-69","Islam","Wrong-ish",10,5.8
+"60-69","Jewish","Not wrong",57,39.6
+"60-69","Jewish","Wrong",72,50
+"60-69","Jewish","Wrong-ish",15,10.4
+"60-69","No religion","Not wrong",970,66.3
+"60-69","No religion","Wrong",211,14.4
+"60-69","No religion","Wrong-ish",282,19.3
+"60-69","Other Christian Religions","Not wrong",42,25
+"60-69","Other Christian Religions","Wrong",111,66.1
+"60-69","Other Christian Religions","Wrong-ish",15,8.9
+"60-69","Other Eastern Religions","Not wrong",12,10
+"60-69","Other Eastern Religions","Wrong",90,75
+"60-69","Other Eastern Religions","Wrong-ish",18,15
+"60-69","Other Religions","Not wrong",16,28.6
+"60-69","Other Religions","Wrong",30,53.6
+"60-69","Other Religions","Wrong-ish",10,17.9
+"60-69","Protestant","Not wrong",1082,55.8
+"60-69","Protestant","Wrong",542,27.9
+"60-69","Protestant","Wrong-ish",316,16.3
+"60-69","Roman Catholic","Not wrong",1429,47
+"60-69","Roman Catholic","Wrong",1013,33.3
+"60-69","Roman Catholic","Wrong-ish",601,19.8
+"70+","Buddhism","Not wrong",16,7.8
+"70+","Buddhism","Wrong",140,68
+"70+","Buddhism","Wrong-ish",50,24.3
+"70+","Christian Orthodox","Not wrong",71,18.5
+"70+","Christian Orthodox","Wrong",272,70.8
+"70+","Christian Orthodox","Wrong-ish",41,10.7
+"70+","Hinduism","Wrong",8,88.9
+"70+","Hinduism","Wrong-ish",1,11.1
+"70+","Islam","Not wrong",7,8.8
+"70+","Islam","Wrong",67,83.8
+"70+","Islam","Wrong-ish",6,7.5
+"70+","Jewish","Not wrong",36,30.8
+"70+","Jewish","Wrong",63,53.8
+"70+","Jewish","Wrong-ish",18,15.4
+"70+","No religion","Not wrong",469,52.1
+"70+","No religion","Wrong",236,26.2
+"70+","No religion","Wrong-ish",195,21.7
+"70+","Other Christian Religions","Not wrong",23,22.8
+"70+","Other Christian Religions","Wrong",63,62.4
+"70+","Other Christian Religions","Wrong-ish",15,14.9
+"70+","Other Eastern Religions","Not wrong",5,4.7
+"70+","Other Eastern Religions","Wrong",92,86
+"70+","Other Eastern Religions","Wrong-ish",10,9.3
+"70+","Other Religions","Not wrong",10,22.7
+"70+","Other Religions","Wrong",28,63.6
+"70+","Other Religions","Wrong-ish",6,13.6
+"70+","Protestant","Not wrong",588,39.9
+"70+","Protestant","Wrong",587,39.8
+"70+","Protestant","Wrong-ish",299,20.3
+"70+","Roman Catholic","Not wrong",877,31.4
+"70+","Roman Catholic","Wrong",1300,46.5
+"70+","Roman Catholic","Wrong-ish",617,22.1

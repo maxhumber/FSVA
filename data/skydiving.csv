@@ -1,4 +1,4 @@
-Jump,Exit Altitude (feet),Deploy Alt (feet),Freefall Distance (feet)
+jump,exit_alt,deploy_alt,freefall
 1,13500,6000,7500
 2,13500,6000,7500
 3,14000,6000,8000

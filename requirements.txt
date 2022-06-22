@@ -13,7 +13,7 @@ jsonschema==3.2.0
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib==3.2.0
-numpy==1.18.1
+numpy==1.22.0
 pandas==1.0.1
 pyparsing==2.4.6
 pyrsistent==0.15.7
